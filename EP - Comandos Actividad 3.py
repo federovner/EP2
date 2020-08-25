@@ -1,5 +1,5 @@
 scrapy shell
-TIMEOUT 15
+PAUSE
 fetch("https://doi.org/10.1371/journal.pone.0005738")
 
 import html2text
